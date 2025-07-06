@@ -86,5 +86,9 @@ Connecting AWS to BI tools securely and effectively
 📢 Hire Me!
 If you're looking for a motivated cloud & data learner who loves solving real-world problems — I'm ready! 🚀
 
+“This project was developed to demonstrate my skills in building real-world cloud-based analytics pipelines using AWS and Power BI.”
+
+#aws #powerbi #serverless #datapipeline #cloudproject
+
 
 
